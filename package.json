@@ -1,0 +1,19 @@
+{
+  "name": "ionic-voricles-obfuscate",
+  "version": "1.0.22",
+  "description": "Protect your ionic app source code against reverse engineering.",
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [
+    "ecosystem: ionic",
+    "cordova-android",
+    "Obfuscate",
+    "cordova-ios"
+  ],
+  "author": "Voricles",
+  "license": "Apache version 2.0",
+  "dependencies": {
+    "javascript-obfuscator": "0.16.0"
+  }
+}

@@ -1,5 +1,6 @@
 package com;
 
+import org.apache.cordova.CordovaPlugin;
 import android.net.Uri;
 
 public class Obfuscate extends CordovaPlugin {
